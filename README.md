@@ -1,6 +1,8 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite + AWS Amplify
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+> Deployed to AWS Cloud with <https://aws.amazon.com/amplify>
 
 Currently, two official plugins are available:
 
@@ -48,3 +50,8 @@ export default tseslint.config({
   },
 })
 ```
+
+## References
+
+- <https://aws.amazon.com/amplify>
+- <https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-amplify-bedrock-cognito-gen-ai/>
